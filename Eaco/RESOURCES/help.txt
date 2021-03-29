@@ -1,0 +1,17 @@
+LIST OF COMMANDS-
+eaco(loc)            - Show the location of which Eaco is running
+display(var)         - Show a variable's value
+display(file)        - Show the contents of a file
+eaco(ver)            - Display the version of Eaco you are using
+eaco(exit)           - Exit the Eaco enviroment
+eaco(help)           - Displays a list of commands
+file(direct)         - Shows you the directory of a folder
+file(delete)         - Deletes a file
+direct(make)         - Makes a directory
+eaco(reset)          - Resets the eaco enviroment
+process(new)         - Creates a new system process
+process(kill)        - Kills a system process
+internet(open)       - Opens a webpage in your default web browser
+app(start)           - Starts an app/game written in Batch
+intapp(cmdemu)       - Starts the Windows CMD Emulator for more uses of EACO
+
